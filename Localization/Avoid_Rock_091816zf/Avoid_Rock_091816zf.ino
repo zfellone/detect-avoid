@@ -9,6 +9,8 @@ Technical explanation is on page 15/16 of the operating manual:
 http://pulsedlight3d.com/pl3d/wp-content/uploads/2014/11/LIDAR-Lite-Operating-Manual.pdf
 */
 
+//gittest
+
 #include <Servo.h>
 #include <SharpIR.h>
 #include <Wire.h>
